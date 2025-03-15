@@ -66,7 +66,7 @@ Seriously, you have been warned.
 ![spoilers](https://github.com/user-attachments/assets/32028ea2-950f-4521-a9e0-2b777d0f2d19)
 
 ## Showcase video
-https://www.youtube.com/watch?v=O_HzGR3l4Kk
+[![video](https://img.youtube.com/vi/O_HzGR3l4Kk/maxresdefault.jpg)](https://www.youtube.com/watch?v=O_HzGR3l4Kk)
 
 ## Full list of changes
 * vs Campanella:
