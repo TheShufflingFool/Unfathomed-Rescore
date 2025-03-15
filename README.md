@@ -6,11 +6,11 @@ Tested on NISA PC version of the game.
 ## Features
 * Changed music for three major boss battles in the game's final chapter, including one track from a different Trails game.
 * Slight changes to some pre-battle cutscenes for (subjectively) better flow.
-* Edited track names for game's BGM info feature, to fix grammar and typos (e.g. my favorite "Bell That Doesn't Supposed to Ring" → "A Bell That Cannot Ring").
+* Edited track names for game's BGM info feature, to fix grammar and typos (e.g. my favorite "Bell That Doesn't Supposed to Ring" → "A Bell That Cannot Ring"). Names were taken from the Kiseki Wiki.
 * Works with both English and Japanese script.
 
 ## Installation
-1. Download the latest release of `UnfathomedRescore.zip` ([here](https://github.com/TheShufflingFool/Unfathomed-Rescore/releases/latest)).
+1. Download the latest release of `Unfathomed-Rescore.zip` ([here](https://github.com/TheShufflingFool/Unfathomed-Rescore/releases/latest)).
 2. Locate the game's main directory:
    * for Steam version, right-click on `Trails to Azure` and select Manage → Browse local files
    * for GOG version, right-click on `Trails to Azure` and select Manage installation → Show folder
@@ -63,6 +63,8 @@ Seriously, you have been warned.
 .  
 .  
 .  
+![spoilers](https://github.com/user-attachments/assets/32028ea2-950f-4521-a9e0-2b777d0f2d19)
+
 ## Showcase video
 https://www.youtube.com/watch?v=O_HzGR3l4Kk
 
