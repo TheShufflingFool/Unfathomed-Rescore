@@ -63,10 +63,10 @@ Seriously, you have been warned.
 .  
 .  
 .  
-## SHOWCASE VIDEO
+## Showcase video
 https://www.youtube.com/watch?v=O_HzGR3l4Kk
 
-## FULL LIST OF CHANGES
+## Full list of changes
 * vs Campanella:
   * delayed the battle BGM start by one dialogue line
   * replaced Unfathomed Force with Step Ahead from CS3
