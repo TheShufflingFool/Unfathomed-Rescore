@@ -1,0 +1,709 @@
+---
+sources:
+  '0':
+    jp: 零OST
+    en: Zero OST
+  '1':
+    jp: 碧OST
+    en: Azure OST
+  '2':
+    jp: 零SAV
+    en: Zero SAV
+  '3':
+    jp: 空FC OST
+    en: Sky FC OST
+  '4':
+    jp: 空SC OST
+    en: Sky SC OST
+  '5':
+    jp: 閃 III OST
+    en: Cold Steel III OST
+files:
+  '5':
+    source: 0
+    disk: 3
+    track: 6
+    jp: その背中を見つめて
+    en: Gazing at Your Back
+  '52':
+    source: 1
+    disk: 1
+    track: 1
+    jp: 碧い軌跡 Aoi Kiseki -Opening Size-
+    en: Aoi Kiseki -Opening Size-
+  '53':
+    source: 1
+    disk: 2
+    track: 25
+    jp: それでも僕らは。
+    en: And Yet Here We Are
+  '101':
+    source: 0
+    disk: 1
+    track: 8
+    jp: 明日は明日の風が吹く
+    en: Tomorrow Is Another Day
+  '102':
+    source: 0
+    disk: 1
+    track: 15
+    jp: クロスベルの午後
+    en: Afternoon in Crossbell
+  '105':
+    source: 0
+    disk: 3
+    track: 1
+    jp: 降水確率10%
+    en: Probability of Precipitation 10%
+  '111':
+    source: 0
+    disk: 1
+    track: 3
+    jp: C.S.P.D. -クロスベル警察-
+    en: C.S.P.D. -Crossbell State Police Department-
+  '113':
+    source: 0
+    disk: 2
+    track: 1
+    jp: Arc-en-ciel
+    en: Arc-En-Ciel
+  '114':
+    source: 0
+    disk: 2
+    track: 3
+    jp: 黒月貿易公司
+    en: Heiyue Trade Company
+  '116':
+    source: 0
+    disk: 1
+    track: 10
+    jp: IGNIS
+    en: Ignis
+  '117':
+    source: 0
+    disk: 1
+    track: 9
+    jp: TRINITY
+    en: Trinity
+  '120':
+    source: 0
+    disk: 1
+    track: 14
+    jp: アルモリカ村
+    en: Armorica Village
+  '121':
+    source: 0
+    disk: 1
+    track: 21
+    jp: 鉱山町マインツ
+    en: Mining Village of Mainz
+  '123':
+    source: 0
+    disk: 1
+    track: 19
+    jp: 聖ウルスラ医科大学
+    en: St. Ursula Medical College
+  '124':
+    source: 0
+    disk: 3
+    track: 2
+    jp: クロスベル大聖堂
+    en: Crossbell Cathedral
+  '125':
+    source: 0
+    disk: 2
+    track: 26
+    jp: 黒の競売会
+    en: Schwarze Auction
+  '126':
+    source: 0
+    disk: 1
+    track: 23
+    jp: 大国に挟まれて
+    en: Caught Between Major Powers
+  '150':
+    source: 1
+    disk: 1
+    track: 5
+    jp: 新たなる日常
+    en: A New Daily Life
+  '151':
+    source: 1
+    disk: 1
+    track: 23
+    jp: 動き始めた事態
+    en: Things Have Started Moving
+  '160':
+    source: 1
+    disk: 1
+    track: 19
+    jp: ミシュラムワンダーランド
+    en: Mishelam Wonderland
+  '161':
+    source: 1
+    disk: 1
+    track: 18
+    jp: 束の間の休息
+    en: A Moment of Rest
+  '162':
+    source: 1
+    disk: 1
+    track: 21
+    jp: ささやかな晩餐
+    en: Unpretentious Dinner
+  '200':
+    source: 0
+    disk: 1
+    track: 16
+    jp: 水と草木と青い空
+    en: Water, Plants and the Blue Sky
+  '201':
+    source: 0
+    disk: 1
+    track: 13
+    jp: 片手にはレモネード
+    en: Lemonade in Hand
+  '202':
+    source: 0
+    disk: 1
+    track: 20
+    jp: 木霊の道
+    en: The Way of the Tree Spirit
+  '203':
+    source: 0
+    disk: 3
+    track: 8
+    jp: 古の鼓動
+    en: Ancient Pulsation
+  '204':
+    source: 0
+    disk: 1
+    track: 12
+    jp: On The Green Road
+    en: On the Green Road
+  '205':
+    source: 0
+    disk: 2
+    track: 20
+    jp: 鉄橋を越えて
+    en: Crossing the Iron Bridge
+  '250':
+    source: 1
+    disk: 1
+    track: 6
+    jp: 木洩れ日の中の静寂
+    en: Silence in the Sunlight Filtering Through Trees
+  '251':
+    source: 1
+    disk: 2
+    track: 13
+    jp: 偽りの楽土を越えて
+    en: Beyond the Paradise of Lies
+  '300':
+    source: 1
+    disk: 1
+    track: 14
+    jp: 大都市に潜む罠
+    en: A Trap Lurking in the City
+  '301':
+    source: 0
+    disk: 1
+    track: 22
+    jp: 七耀の煌き
+    en: Gleam of Septium
+  '302':
+    source: 0
+    disk: 2
+    track: 2
+    jp: ルバーチェ商会
+    en: Revache & Co.
+  '303':
+    source: 0
+    disk: 3
+    track: 3
+    jp: 鳴るはずのない鐘
+    en: A Bell That Cannot Ring
+  '304':
+    source: 0
+    disk: 2
+    track: 5
+    jp: 忘れられし幻夢の狭間
+    en: Between the Forgotten Phantasm
+  '350':
+    source: 1
+    disk: 1
+    track: 2
+    jp: Dの残影
+    en: Traces of D
+  '351':
+    source: 1
+    disk: 1
+    track: 10
+    jp: 異変の兆し
+    en: Omen of Disaster
+  '352':
+    source: 1
+    disk: 2
+    track: 18
+    jp: Mystic Core
+    en: Mystic Core
+  '353':
+    source: 1
+    disk: 2
+    track: 20
+    jp: 最果ての樹
+    en: The Tree at the Farthest End
+  '354':
+    source: 1
+    disk: 1
+    track: 24
+    jp: 暴魔の呼び声
+    en: Demon's Yell
+  '356':
+    source: 2
+    disk: 1
+    track: 6
+    jp: 揺るぎない強さ
+    en: Firm Strength
+  '405':
+    source: 0
+    disk: 3
+    track: 10
+    jp: Demonic Drive
+    en: Demonic Drive
+  '408':
+    source: 0
+    disk: 1
+    track: 6
+    jp: これが俺たちの力だ！
+    en: This Is Our Power!
+  '450':
+    source: 1
+    disk: 1
+    track: 3
+    jp: Seize The Truth!
+    en: Seize the Truth!
+  '451':
+    source: 1
+    disk: 1
+    track: 4
+    jp: Concentrate All Firepower!!
+    en: Concentrate All Firepower!!
+  '452':
+    source: 1
+    disk: 1
+    track: 17
+    jp: Conflicting Passions
+    en: Conflicting Passions
+  '453':
+    source: 1
+    disk: 1
+    track: 28
+    jp: Unexpected Emergency
+    en: Unexpected Emergency
+  '454':
+    source: 1
+    disk: 1
+    track: 11
+    jp: Mythtic Roar
+    en: Mythtic Roar
+  '455':
+    source: 1
+    disk: 1
+    track: 25
+    jp: Destruction Impulse
+    en: Destruction Impulse
+  '458':
+    source: 1
+    disk: 2
+    track: 22
+    jp: Unfathomed Force
+    en: Unfathomed Force
+  '459':
+    source: 1
+    disk: 2
+    track: 23
+    jp: The Azure Arbitrator
+    en: The Azure Arbitrator
+  '460':
+    source: 1
+    disk: 2
+    track: 23
+    jp: The Azure Arbitrator
+    en: The Azure Arbitrator
+  '507':
+    source: 0
+    disk: 2
+    track: 17
+    jp: Intense Chase
+    en: Intense Chase
+  '510':
+    source: 0
+    disk: 3
+    track: 9
+    jp: 叡智への誘い
+    en: Temptation of Wisdom
+  '512':
+    source: 0
+    disk: 3
+    track: 16
+    jp: 揺るぎない強さ
+    en: Firm Strength
+  '513':
+    source: 0
+    disk: 3
+    track: 12
+    jp: 夜景に霞む星空
+    en: The Starry Sky Misty in the Night
+  '514':
+    source: 0
+    disk: 3
+    track: 14
+    jp: いつかきっと
+    en: Someday, Surely
+  '515':
+    source: 0
+    disk: 3
+    track: 5
+    jp: 柔らかな心
+    en: Tender Heart
+  '516':
+    source: 0
+    disk: 1
+    track: 11
+    jp: 点と線
+    en: Points and Lines
+  '517':
+    source: 0
+    disk: 2
+    track: 15
+    jp: 一触即発
+    en: Critical Situation
+  '518':
+    source: 0
+    disk: 2
+    track: 16
+    jp: Foolish Gig
+    en: Foolish Gig
+  '519':
+    source: 0
+    disk: 1
+    track: 18
+    jp: リベールからの風
+    en: The Wind from Liberl
+  '521':
+    source: 0
+    disk: 2
+    track: 18
+    jp: Underground Kids
+    en: Underground Kids
+  '522':
+    source: 0
+    disk: 2
+    track: 4
+    jp: Terminal Room
+    en: Terminal Room
+  '523':
+    source: 0
+    disk: 3
+    track: 13
+    jp: 響きあう心
+    en: Resonating Heart
+  '524':
+    source: 0
+    disk: 2
+    track: 19
+    jp: Limit Break
+    en: Limit Break
+  '527':
+    source: 0
+    disk: 3
+    track: 17
+    jp: Get Over The Barrier! -Roaring Version-
+    en: Get Over the Barrier! -Roaring Version-
+  '534':
+    source: 0
+    disk: 3
+    track: 6
+    jp: その背中を見つめて
+    en: Gazing at Your Back
+  '540':
+    source: 2
+    disk: 1
+    track: 1
+    jp: Inevitable Struggle
+    en: Inevitable Struggle
+  '541':
+    source: 2
+    disk: 1
+    track: 2
+    jp: 零の軌跡
+    en: Zero No Kiseki
+  '542':
+    source: 2
+    disk: 1
+    track: 9
+    jp: A Light Illuminating The Depths
+    en: A Light Illuminating the Depths
+  '543':
+    source: 2
+    disk: 1
+    track: 10
+    jp: Get Over The Barrier! -silent devotion-
+    en: Get Over the Barrier! -silent devotion-
+  '544':
+    source: 2
+    disk: 1
+    track: 11
+    jp: To be continued!
+    en: To Be Continued!
+  '550':
+    source: 1
+    disk: 1
+    track: 13
+    jp: オルキスタワー
+    en: Orchis Tower
+  '551':
+    source: 1
+    disk: 2
+    track: 3
+    jp: Catastrophe
+    en: Catastrophe
+  '552':
+    source: 1
+    disk: 2
+    track: 9
+    jp: 碧き雫 Aoki Shizuku
+    en: Aoki Shizuku
+  '553':
+    source: 1
+    disk: 2
+    track: 10
+    jp: 神機降臨
+    en: Descent of the Aions
+  '554':
+    source: 1
+    disk: 2
+    track: 11
+    jp: ふるわれる奇蹟
+    en: A Miracle Is Shown
+  '555':
+    source: 1
+    disk: 2
+    track: 19
+    jp: 予定外の奇蹟
+    en: Unexpected Miracle
+  '556':
+    source: 1
+    disk: 2
+    track: 7
+    jp: 鋼鉄の咆哮 -脅威-
+    en: Steel Roar -Threat-
+  '560':
+    source: 1
+    disk: 2
+    track: 21
+    jp: 雨の日の真実
+    en: The Truth of the Rainy Day
+  '561':
+    source: 1
+    disk: 1
+    track: 16
+    jp: 不穏
+    en: Disquiet
+  '562':
+    source: 1
+    disk: 2
+    track: 21
+    jp: 雨の日の真実
+    en: The Truth of the Rainy Day
+  '563':
+    source: 1
+    disk: 2
+    track: 14
+    jp: 犠牲の先の希望
+    en: A Victim's Past Wish
+  '564':
+    source: 1
+    disk: 1
+    track: 22
+    jp: Strange Feel
+    en: Strange Feel
+  '565':
+    source: 1
+    disk: 1
+    track: 7
+    jp: Exhilarating Ride
+    en: Exhilarating Ride
+  '566':
+    source: 1
+    disk: 2
+    track: 5
+    jp: それぞれの正義
+    en: Each Justice
+  '567':
+    source: 1
+    disk: 1
+    track: 29
+    jp: 乗り越えるべき壁
+    en: A Barrier to Get Over
+  '568':
+    source: 1
+    disk: 2
+    track: 15
+    jp: 月下の想い
+    en: Feelings in the Moonlight
+  '569':
+    source: 1
+    disk: 1
+    track: 30
+    jp: Miss You
+    en: Miss You
+  '570':
+    source: 1
+    disk: 2
+    track: 12
+    jp: 天の車
+    en: Heavenly Chariot
+  '571':
+    source: 1
+    disk: 2
+    track: 4
+    jp: 突きつけられた現実
+    en: Confronting Reality
+  '572':
+    source: 1
+    disk: 2
+    track: 6
+    jp: 昏き玉座
+    en: Dark Throne
+  '573':
+    source: 1
+    disk: 1
+    track: 26
+    jp: 全てを識るもの
+    en: All-Knowing One
+  '574':
+    source: 1
+    disk: 2
+    track: 17
+    jp: 想い、辿り着く場所
+    en: Feelings, a Place to Arrive At
+  '575':
+    source: 1
+    disk: 2
+    track: 16
+    jp: 揺れ動く心
+    en: Wavering Heart
+  '576':
+    source: 1
+    disk: 2
+    track: 1
+    jp: 星降る夜に
+    en: A Night of Falling Stars
+  '577':
+    source: 0
+    disk: 2
+    track: 18
+    jp: Underground Kids
+    en: Underground Kids
+  '578':
+    source: 3
+    disk: 1
+    track: 16
+    jp: 琥珀の愛 Hum Ver.
+    en: Amber Amour -Hum Version-
+  '579':
+    source: 3
+    disk: 2
+    track: 9
+    jp: 琥珀の愛 Piano Ver.
+    en: Amber Amour -Piano Version-
+  '580':
+    source: 4
+    disk: 1
+    track: 9
+    jp: 陰謀
+    en: Conspiracy
+  '581':
+    source: 1
+    disk: 2
+    track: 24
+    jp: 本当の絆
+    en: True Bonds
+  '582':
+    source: 1
+    disk: 2
+    track: 2
+    jp: 猛き獣たち
+    en: Ferocious Beasts
+  '583':
+    source: 1
+    disk: 1
+    track: 12
+    jp: 西ゼムリア通商会議
+    en: West Zemuria Trade Conference
+  '584':
+    source: 4
+    disk: 2
+    track: 2
+    jp: 執行者
+    en: The Enforcers
+  '585':
+    source: 1
+    disk: 2
+    track: 8
+    jp: 千年の妄執
+    en: Delusion of a Thousand Years
+  '586':
+    source: 1
+    disk: 1
+    track: 27
+    jp: 鋼鉄の咆哮 -死線-
+    en: Steel Roar -Verge of Death-
+  '587':
+    source: 1
+    disk: 1
+    track: 9
+    jp: ポムっと! -お花見団子の逆襲-
+    en: Pomtto! -Counterstrike of Flower-Viewing Dumpling-
+  '588':
+    source: 1
+    disk: 1
+    track: 15
+    jp: Fateful Confrontation -ポムっと! Ver.-
+    en: Fateful Confrontation -Pomtto! Ver.-
+  '589':
+    source: 1
+    disk: 1
+    track: 8
+    jp: ポムりますか?
+    en: Shall We Pom?
+  '590':
+    source: 1
+    disk: 1
+    track: 20
+    jp: エリィ絶叫コースター
+    en: Elie's Screaming Roller Coaster
+  '591':
+    source: 1
+    disk: 1
+    track: 31
+    jp: 小さな英雄 -オルゴール-
+    en: Little Heroes -Music Box-
+  '592':
+    source: 1
+    disk: 1
+    track: 32
+    jp: TOWER OF THE SHADOW OF DEATH -Jukebox-
+    en: Tower of the Shadow of Death -Jukebox-
+  '4':
+    source: 1
+    en: Way Of Life
+    jp: Ｗａｙ　Ｏｆ　Ｌｉｆｅ
+  '700':
+    source: 5
+    disk: 2
+    track: 4
+    jp: STEP AHEAD
+    en: Step Ahead
