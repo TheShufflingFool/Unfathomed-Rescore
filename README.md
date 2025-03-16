@@ -79,4 +79,4 @@ Seriously, you have been warned.
   * in the final scene Tio is the first character to pull out her weapon, while saying her line, followed by the rest of the team
   * delayed Mariabell's second bust art and the battle BGM start by one dialogue line
   * replaced Unfathomed Force with Delusion of a Thousand Years
-  * shortened the awkward 5-seconds-long pauses after Mariabell's pre-battle dialogue lines (English script only)
+  * shortened the awkward 5-seconds-long pauses during Mariabell's pre-battle monologue (English script only)
